@@ -1,2 +1,2 @@
-# android_basics_compose
-Curso de Programção Kotlin e Jetpack Compose
+# SystemDevelopment_Project
+App Android com imagens e saudações
