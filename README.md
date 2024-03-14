@@ -1,2 +1,2 @@
-# ComposeArticle
-Modelo de artigo com imagem
+# ComposeQuadrant
+Modelo de grade usando linhas e colunas
