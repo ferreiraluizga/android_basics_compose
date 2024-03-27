@@ -1,4 +1,3 @@
-# android_basics_compose
-Curso de Programção Kotlin e Jetpack Compose
-<br>
-<a href="https://github.com/ferreiraluizga/android_basics_compose/tree/systemDevelopment_project">System Development Project</a>
+# Dice Roller
+Aplicativo feito em Kotlin com interface composta por botões e funcionalidades
+
